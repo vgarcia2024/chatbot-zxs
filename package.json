@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-agent-gemini",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Agente de IA (Gemini) para WhatsApp Business Cloud API, deployado en Vercel",
+  "engines": {
+    "node": ">=20"
+  }
+}
